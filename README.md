@@ -8,7 +8,7 @@ Each directory is a Claude Code skill: a `SKILL.md` file that teaches Claude pat
 
 | Skill | Description |
 |-------|-------------|
-| [learning-stuffs-patterns](./learning-stuffs-patterns/SKILL.md) | Self-contained HTML courses, Playwright E2E via `file://`, Vercel deployment |
+| [course-creation](./course-creation/SKILL.md) | Self-contained HTML courses, Playwright E2E via `file://`, Vercel deployment, scroll-to-unlock gating |
 
 ## Installing a skill globally
 
