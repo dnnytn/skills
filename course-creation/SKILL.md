@@ -1,6 +1,6 @@
 ---
-name: learning-stuffs-patterns
-description: Coding patterns extracted from the learning-stuffs repo — self-contained HTML courses, Playwright E2E via file://, Vercel deployment
+name: course-creation
+description: Self-contained HTML courses — single-file architecture, Playwright E2E via file://, Vercel deployment, scroll-to-unlock gating
 version: 1.0.0
 source: local-git-analysis
 analyzed_commits: 12
